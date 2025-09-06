@@ -47,11 +47,11 @@ to improve overall profitability and inventory efficiency.
 ## In Power BI
 -Imported cleaned Excel File.
 -Created KPIs using DAX:
-    -`Total Sales = SUM(Sheet1[Ext Price])`
-    -`Total Quantity = SUM(Sheet1[Quantity])`
-    -`Total Profit = SUM(Sheet1[Profit])`
-    -`Average Profit Margin = AVERAGE(Sheet1[Profit Margin %])`
-    -`Total Profit Margin = SUM(Sheet1[Profit Margin %])`
+-`Total Sales = SUM(Sheet1[Ext Price])`
+-`Total Quantity = SUM(Sheet1[Quantity])`
+-`Total Profit = SUM(Sheet1[Profit])`
+-`Average Profit Margin = AVERAGE(Sheet1[Profit Margin %])`
+-`Total Profit Margin = SUM(Sheet1[Profit Margin %])`
 
 
 ## Dashboard Features
