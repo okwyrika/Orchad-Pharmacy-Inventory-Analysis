@@ -89,5 +89,4 @@ underperforming. Explore if this is due to low demand or stocking inefficiencies
 either boost marketing or reduce orders in underperforming Departments.
 
 ## Portfolio
-[View the full PDF Portfolio](Orchad-Pharmacy-Inventory-Analysis
-/Orchad pharmacy project analysis.pdf)
+[View the full PDF Portfolio](https://github.com/okwyrika/Orchad-Pharmacy-Inventory-Analysis/blob/main/Orchad%20pharmacy%20project%20analysis.pdf)
