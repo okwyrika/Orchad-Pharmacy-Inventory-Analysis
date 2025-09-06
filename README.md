@@ -56,36 +56,36 @@ to improve overall profitability and inventory efficiency.
 
 
 ## Dashboard Features
--KPIs: Total Sales, Total Quantity, Total Profit, Average Profit Margin, Total profit Margin.
--Visualization:
-    -On-Order Qty By Vendor Name.
-    -10 Most Costly Items.
-    -Top 5 Department.
-    -Sum of Profit By Vendor Name.
-    -10 Most Profitable Items.
+- KPIs: Total Sales, Total Quantity, Total Profit, Average Profit Margin, Total profit Margin.
+- Visualization:
+    - On-Order Qty By Vendor Name.
+    - 10 Most Costly Items.
+    - Top 5 Department.
+    - Sum of Profit By Vendor Name.
+    - 10 Most Profitable Items.
 
 ## Key Findings
--The Pharmacy generates strong revenue with over 29% profit Margin.
--Grams Pharma dominates On-Order Qty and Profit contribution which 
+- The Pharmacy generates strong revenue with over 29% profit Margin.
+- Grams Pharma dominates On-Order Qty and Profit contribution which 
 poses an over dependence risk.
--Augmentin 625mg & 1g, Vit-C white 100mg, and Rocephin are among 
+- Augmentin 625mg & 1g, Vit-C white 100mg, and Rocephin are among 
 the most costly and profitable items.
--Zinc have huge stocks compared to sales.
--The Drug Department dominates profit contribution.
+- Zinc have huge stocks compared to sales.
+- The Drug Department dominates profit contribution.
 
 ## Recommendations
--Reduce purchase volumes for slow-moving products like Zinc and invest more in fast 
+- Reduce purchase volumes for slow-moving products like Zinc and invest more in fast 
 moving drugs like Augmentin and Rocephin.
--Negotiate better terms with Grams Pharma while actively onboard secondary 
+- Negotiate better terms with Grams Pharma while actively onboard secondary 
 vendors to avoid supply chain dependency.
--Reassess high-cost but low-margin products to see if price adjustments can improve 
+- Reassess high-cost but low-margin products to see if price adjustments can improve 
 profitability. Consider promotions or slight markups on fast movers that are less price 
 sensitive.
--Prioritize fast-moving ,high-margin drugs while trimming down orders for slow
+- Prioritize fast-moving ,high-margin drugs while trimming down orders for slow
 moving stock.
--Implement a stock level threshold alert system for Augmentin, Rocephin and 
+- Implement a stock level threshold alert system for Augmentin, Rocephin and 
 Ampiclox B/C.
--The Drug Department drives most profit but System and Other Departments are 
+- The Drug Department drives most profit but System and Other Departments are 
 underperforming. Explore if this is due to low demand or stocking inefficiencies and 
 either boost marketing or reduce orders in underperforming Departments.
 
